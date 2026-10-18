@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <PackageId>Novolis.Inference.Abstractions</PackageId>
+    <RootNamespace>Novolis.Inference.Abstractions</RootNamespace>
+    <Description>Provider-neutral chat and model-inference contracts.</Description>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <IsPackable>true</IsPackable>
+  </PropertyGroup>
+</Project>

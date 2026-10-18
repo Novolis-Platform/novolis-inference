@@ -1,0 +1,12 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <PackageId>Novolis.Inference.Ollama</PackageId>
+    <RootNamespace>Novolis.Inference.Ollama</RootNamespace>
+    <Description>Ollama local chat inference for Novolis contracts.</Description>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <IsPackable>true</IsPackable>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Novolis.Inference.Abstractions\Novolis.Inference.Abstractions.csproj" />
+  </ItemGroup>
+</Project>

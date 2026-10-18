@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/Novolis.Inference.Abstractions/Novolis.Inference.Abstractions.csproj" />
+    <Project Path="src/Novolis.Inference.AgentFramework/Novolis.Inference.AgentFramework.csproj" />
+    <Project Path="src/Novolis.Inference.Images/Novolis.Inference.Images.csproj" />
+    <Project Path="src/Novolis.Inference.Ollama/Novolis.Inference.Ollama.csproj" />
+    <Project Path="src/Novolis.Inference.Onnx/Novolis.Inference.Onnx.csproj" />
+    <Project Path="src/Novolis.Inference.Safety/Novolis.Inference.Safety.csproj" />
+    <Project Path="src/Novolis.Inference.SharpMind/Novolis.Inference.SharpMind.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/Novolis.Inference.Unit/Novolis.Inference.Unit.csproj" />
+  </Folder>
+</Solution>

@@ -1,0 +1,9 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <PackageId>Novolis.Inference.Safety</PackageId>
+    <RootNamespace>Novolis.Inference.Safety</RootNamespace>
+    <Description>Provider-neutral image safety classification contracts and policies.</Description>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <IsPackable>true</IsPackable>
+  </PropertyGroup>
+</Project>

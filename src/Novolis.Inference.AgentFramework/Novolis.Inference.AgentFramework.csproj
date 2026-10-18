@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <PackageId>Novolis.Inference.AgentFramework</PackageId>
+    <RootNamespace>Novolis.Inference.AgentFramework</RootNamespace>
+    <Description>Microsoft Agent Framework adapters for Novolis inference contracts.</Description>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <IsPackable>true</IsPackable>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.Agents.AI" />
+    <PackageReference Include="Microsoft.Extensions.AI.Abstractions" />
+    <ProjectReference Include="..\Novolis.Inference.Abstractions\Novolis.Inference.Abstractions.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,17 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <PackageId>Novolis.Inference.SharpMind</PackageId>
+    <RootNamespace>Novolis.Inference.SharpMind</RootNamespace>
+    <Description>SharpMind local chat inference adapter.</Description>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <IsPackable>true</IsPackable>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="SharpMind.Core" />
+    <PackageReference Include="SharpMind.Data" />
+    <PackageReference Include="SharpMind.Inference" />
+    <PackageReference Include="SharpMind.Model" />
+    <PackageReference Include="SharpMind.Tokenization" />
+    <ProjectReference Include="..\Novolis.Inference.Abstractions\Novolis.Inference.Abstractions.csproj" />
+  </ItemGroup>
+</Project>

@@ -1,0 +1,13 @@
+<Project Sdk="Microsoft.NET.Sdk">
+  <PropertyGroup>
+    <PackageId>Novolis.Inference.Onnx</PackageId>
+    <RootNamespace>Novolis.Inference.Onnx</RootNamespace>
+    <Description>ONNX Runtime image inference adapter for Novolis.</Description>
+    <GenerateDocumentationFile>true</GenerateDocumentationFile>
+    <IsPackable>true</IsPackable>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageReference Include="Microsoft.ML.OnnxRuntime" />
+    <ProjectReference Include="..\Novolis.Inference.Images\Novolis.Inference.Images.csproj" />
+  </ItemGroup>
+</Project>

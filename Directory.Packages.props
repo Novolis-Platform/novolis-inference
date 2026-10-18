@@ -1,0 +1,21 @@
+<Project>
+  <PropertyGroup>
+    <ManagePackageVersionsCentrally>true</ManagePackageVersionsCentrally>
+    <CentralPackageFloatingVersionsEnabled>true</CentralPackageFloatingVersionsEnabled>
+  </PropertyGroup>
+  <ItemGroup>
+    <PackageVersion Include="Microsoft.Agents.AI" Version="1.25.0" />
+    <PackageVersion Include="Microsoft.Extensions.AI.Abstractions" Version="10.11.0" />
+    <PackageVersion Include="Microsoft.Extensions.Caching.Memory" Version="10.0.13" />
+    <PackageVersion Include="Microsoft.Extensions.DependencyInjection.Abstractions" Version="10.0.13" />
+    <PackageVersion Include="Microsoft.ML.OnnxRuntime" Version="1.31.0" />
+    <PackageVersion Include="Microsoft.SourceLink.GitHub" Version="10.0.402" />
+    <PackageVersion Include="SharpMind.Core" Version="1.0.8" />
+    <PackageVersion Include="SharpMind.Data" Version="1.0.8" />
+    <PackageVersion Include="SharpMind.Inference" Version="1.0.8" />
+    <PackageVersion Include="SharpMind.Model" Version="1.0.8" />
+    <PackageVersion Include="SharpMind.Tokenization" Version="1.0.8" />
+    <PackageVersion Include="TUnit" Version="1.75.0" />
+  </ItemGroup>
+</Project>
+
