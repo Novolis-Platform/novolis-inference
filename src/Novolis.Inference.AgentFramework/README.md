@@ -1,7 +1,5 @@
 # Novolis.Inference.AgentFramework
 
-Microsoft Agent Framework and `Microsoft.Extensions.AI` adapter for `IChatModel`.
+Microsoft Agent Framework adapters for Novolis inference contracts.
 
-```powershell
-dotnet add package Novolis.Inference.AgentFramework
-```
+Install from nuget.org or GitHub Packages.

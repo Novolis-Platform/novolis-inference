@@ -1,7 +1,5 @@
 # Novolis.Inference.Images
 
-Provider-neutral image generation requests and results.
+Provider-neutral image generation contracts and results.
 
-```powershell
-dotnet add package Novolis.Inference.Images
-```
+Install from nuget.org or GitHub Packages.

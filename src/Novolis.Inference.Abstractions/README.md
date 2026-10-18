@@ -1,7 +1,5 @@
 # Novolis.Inference.Abstractions
 
-Stable provider-neutral chat contracts.
+Provider-neutral chat and model-inference contracts.
 
-```powershell
-dotnet add package Novolis.Inference.Abstractions
-```
+Install from nuget.org or GitHub Packages.

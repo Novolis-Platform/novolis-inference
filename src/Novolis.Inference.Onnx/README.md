@@ -1,7 +1,5 @@
 # Novolis.Inference.Onnx
 
-ONNX Runtime graph adapter for image generation pipelines.
+ONNX Runtime image inference adapter for Novolis.
 
-```powershell
-dotnet add package Novolis.Inference.Onnx
-```
+Install from nuget.org or GitHub Packages.

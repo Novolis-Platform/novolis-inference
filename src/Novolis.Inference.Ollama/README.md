@@ -1,7 +1,5 @@
 # Novolis.Inference.Ollama
 
-Ollama local chat adapter using the provider HTTP API.
+Ollama local chat inference for Novolis contracts.
 
-```powershell
-dotnet add package Novolis.Inference.Ollama
-```
+Install from nuget.org or GitHub Packages.

@@ -1,7 +1,5 @@
 # Novolis.Inference.Safety
 
-Provider-neutral safety classification and threshold policy.
+Provider-neutral image safety classification contracts and policies.
 
-```powershell
-dotnet add package Novolis.Inference.Safety
-```
+Install from nuget.org or GitHub Packages.

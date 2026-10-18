@@ -1,7 +1,5 @@
 # Novolis.Inference.SharpMind
 
-SharpMind local model loading and chat generation.
+SharpMind local chat inference adapter.
 
-```powershell
-dotnet add package Novolis.Inference.SharpMind
-```
+Install from nuget.org or GitHub Packages.
